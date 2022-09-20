@@ -7,7 +7,7 @@ EPVOC is an ontology that defines classes and properties that are re-used across
 ## Versions
 - Latest version:
   - [HTML](./index.html)
-  - [SHACL](./epvoc.ttl)
+  - [Turtle](./epvoc.ttl)
 - [Version 0.9](./0.9/)
 
 ## Licence
